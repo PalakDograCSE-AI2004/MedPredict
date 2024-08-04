@@ -39,6 +39,6 @@ The datasets for all three models were sourced from Kaggle. They include data fr
 5) Make Final Predictions
 ## Machine Learning Models
 
-1) Diabetes Prediction: Logistic Regression
-2) Heart Disease Prediction: Support Vector Machine (SVM)
+1) Heart Disease Prediction: Logistic Regression
+2) Diabetes Prediction: Support Vector Machine (SVM)
 3) Parkinson's Disease Detection: Support Vector Machine (SVM)
